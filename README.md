@@ -161,5 +161,10 @@ https://github.com/acmesh-official/acme.sh/blob/master/dnsapi/dns_ionos.sh
 https://github.com/ran-sama/systemd-service-examples  
 https://github.com/ran-sama/python-3-certbot-virtualenv  
 
+## Documentation
+
+https://docs.python.org/3.14/library/ssl.html  
+https://docs.python.org/3.14/library/socket.html  
+
 ## License
 Licensed under the WTFPL license.
